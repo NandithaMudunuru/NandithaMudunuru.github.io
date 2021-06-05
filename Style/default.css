@@ -35,7 +35,10 @@ body {
 
 #Header {
     background-color:var(--BackPrim);
-    color:var(--BackSec) !important;
+    color:white !important;
+    font-size:25px;
+    font-family:'Cardo';
+    font-weight:bold;
     height: 30px;
     padding:10px;
     position: absolute;
