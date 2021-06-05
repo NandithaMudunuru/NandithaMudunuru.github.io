@@ -1,0 +1,25 @@
+:root {
+    /*Template colors*/
+    --Black:#000000;
+    --GrayDark: #708090;
+    --GrayLight: #C0C0C0;
+    --BlueGrayDark: #36454F;
+    --BlueGrayLight: #7393B3;
+    --BlueDark:#4682B4;
+    --BlueLight: #A7C7E7;
+    --BlueGreen: #008080;
+    --GreenBlue: #478778;
+    --GreenDark: #454B1B;
+    --GreenLight: #8A9A5B;
+    --PurpleDark: #673147;
+    --PurpleLight: #D8BFD8;
+    --PurplePink: #915F6D;
+    --PurpleRed: #953553;
+    --PinkDark: #AA336A;
+    --PinkLight: #E0BFB8;
+    /*Theme colors*/
+    --BackPrim:var(--GrayDark);
+    --BackSec:var(--GrayLight);
+    --TextPrim:var(--BlueGrayDark);
+    --TextSec:var(--BlueGrayLight);
+}
