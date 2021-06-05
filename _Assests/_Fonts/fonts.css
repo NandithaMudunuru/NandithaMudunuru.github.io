@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Cardo';
+    src: url(Cardo-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Cardo';
+    src: url(Cardo-Bold.ttf) format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Cardo';
+    src: url(Cardo-Italic.ttf) format('truetype');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url(Raleway-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url(Raleway-Bold.ttf) format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url(Raleway-Italic.ttf) format('truetype');
+    font-style: italic;
+}
